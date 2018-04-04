@@ -1,0 +1,26 @@
+{
+  "name": "lista2-js",
+  "version": "0.1.0",
+  "description": "Middleware class exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igormatos/middleware-listas.git"
+  },
+  "author": "Igor Matos, Pedro Torchio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igormatos/middleware-listas/issues"
+  },
+  "homepage": "https://github.com/igormatos/middleware-listas#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "wedeploy": "^4.2.0",
+    "zeromq": "^4.6.0"
+  }
+}
